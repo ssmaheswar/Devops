@@ -4,3 +4,4 @@ print c
 c = d
 print d
 c=a+b
+print c
