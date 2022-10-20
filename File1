@@ -1,9 +1,9 @@
-int a, b, c
-c=a+b
-print c
-c = d
+int n1, n2, a, s, m, d
+a=n1+n2
+print a
+s=n1-n2
+print s
+m = n1*n2
+print m
+d= n1/n2
 print d
-c=a+b
-print c
-f = c + d
-print(f)
